@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+cloudflared.exe
+gh-portable/
+gh_*_windows_amd64.zip
